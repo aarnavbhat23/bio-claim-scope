@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.claim_scope`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/claim_scope.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Bio Claim Scope
 
 Evaluate evidence-scoped biomedical claim labels and reject quotations that do not occur in the supplied source.
